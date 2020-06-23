@@ -24,7 +24,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url("img/home1.jpg");
+  background-image: url("home1.jpg");
   background-size: cover;
   color: white;
   text-align: left;
@@ -223,7 +223,7 @@ footer p {
 
 footer {
   padding: 30px 0 100px 0;
-  background-image: url("img/black.jpg");
+  background-image: url("black.jpg");
   background-size: cover;
   color: white;
   text-align: left;
